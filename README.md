@@ -17,3 +17,8 @@ Expanding my knowledge from infosec into Blockchain, Web3, Crytpo ecosystem.
 
 **Communities:**
 - There are a lot of different communities you can get involved with. Look at https://buildspace.so/ and https://speedrunethereum.com/
+
+**Bootcamps:**
+- Chainlink portal --> https://docs.chain.link/docs/other-tutorials/#smart-contract-learning-materials
+- ChainShot (Ethereum Dev Bootcamp TBD registration, and Intro to Solidity in progress) https://www.chainshot.com/dashboard
+- Consensys 2022 Blockchain Developer Online Bootcamp TBD registration https://consensys.net/academy/bootcamp/
