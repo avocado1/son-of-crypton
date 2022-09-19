@@ -19,7 +19,7 @@ Expanding my knowledge from infosec into Blockchain, Web3, Crytpo ecosystem.
 - There are a lot of different communities you can get involved with. Look at https://buildspace.so/ and https://speedrunethereum.com/
 
 **Training Exercise**
-- CryptoZombies and Capture the Ether https://github.com/bkrem/awesome-solidity#security
+- Awesome Solidity Resources; CryptoZombies and Capture the Ether; https://github.com/bkrem/awesome-solidity#security
 
 **Bootcamps:**
 - Chainlink portal --> https://docs.chain.link/docs/other-tutorials/#smart-contract-learning-materials
