@@ -25,3 +25,8 @@ Expanding my knowledge from infosec into Blockchain, Web3, Crytpo ecosystem.
 - Chainlink portal --> https://docs.chain.link/docs/other-tutorials/#smart-contract-learning-materials
 - ChainShot (Ethereum Dev Bootcamp TBD registration, and Intro to Solidity in progress) https://www.chainshot.com/dashboard
 - Consensys 2022 Blockchain Developer Online Bootcamp TBD registration https://consensys.net/academy/bootcamp/
+
+**Staking as ETH Validator**
+- Put up 32 ETH or min 16 through Rocketpool. maintain uptime equipment to avoid slashing penalties
+- https://rocketpool.net/node-operators
+- https://aws.amazon.com/blogs/database/automate-ethereum-node-validator-deployment-on-amazon-ec2-using-aws-cdk/
